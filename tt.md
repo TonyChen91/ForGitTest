@@ -7,3 +7,6 @@ author: "Tony"
 Version I
 Version II(Finish git init)
 Version III(After git remote add origin https)
+Version IV(After git add .)
+Version V(After git commit)
+Version VI(After git push)
