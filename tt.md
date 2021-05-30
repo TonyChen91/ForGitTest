@@ -4,9 +4,9 @@ date: 2021-05-22T11:22:25+08:00
 draft: false
 author: "Tony"
 ---
-Version I
-Version II(Finish git init)
-Version III(After git remote add origin https)
-Version IV(After git add .)
-Version V(After git commit)
-Version VI(After git push)
+Version I  
+Version II(Finish git init)  
+Version III(After git remote add origin https)  
+Version IV(After git add .)  
+Version V(After git commit)  
+Version VI(After git push)  
